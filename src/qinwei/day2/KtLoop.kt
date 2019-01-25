@@ -1,4 +1,4 @@
-package qinwei.day13and14
+package qinwei.day2
 
 fun whileLoop() {
     var count = 0

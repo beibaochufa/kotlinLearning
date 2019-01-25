@@ -1,4 +1,4 @@
-package qinwei.day11
+package qinwei.day1
 
 sealed class Animal {
 

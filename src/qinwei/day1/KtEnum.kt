@@ -1,6 +1,4 @@
-package qinwei.day11
-
-import java.awt.Color
+package qinwei.day1
 
 enum class TouchEvent {
     ACTION_MOVE,

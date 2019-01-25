@@ -1,4 +1,4 @@
-package qinwei.day12
+package qinwei.day1.demo
 
 class MusicPlayerClient {
     var user: User? = null;

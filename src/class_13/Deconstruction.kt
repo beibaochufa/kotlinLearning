@@ -8,6 +8,8 @@ class User(var age: Int, var name: String) {
 fun main(args: Array<String>) {
     var man = User(48, "pony")
     val (age, name) = man;
+    var i = 1;
+    i++
     println(age)
     println(name)
 }

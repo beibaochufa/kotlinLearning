@@ -1,4 +1,4 @@
-package qinwei.day11
+package qinwei.day1
 
 class Test private constructor() {
 
