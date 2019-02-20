@@ -12,7 +12,7 @@ fun main(args: Array<String>) {
         println("打印日志")
     }
 
-    val a = File("")
-    a.readBytes()
+//    val a = File("")
+//    a.readBytes()
 
 }
